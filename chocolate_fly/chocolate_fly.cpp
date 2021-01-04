@@ -57,7 +57,7 @@ int nx[maxN];
 
 stack<int> curr;
 int main() {
-
+	//
 	// capacity , num of cities
 	int  n, m;
 	cin >> m;
